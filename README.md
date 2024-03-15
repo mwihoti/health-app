@@ -1,6 +1,6 @@
 # Hospitali Mkononi - Health App
 ## About
-```Hosptali mkononi is a health app that allows patients to book doctors appointment within our patnered hospitals. It also has a health bot that enables hospitali mkononi patients check what kind of disease they have by typing their symptoms```
+```Hosptali mkononi is a health app that allows patients to book doctors appointment with our patnered hospitals. It also has a health bot that enables hospitali mkononi patients know what kind of disease they might have by typing their symptoms```
 ## Clone repository
 ```git clone git@github.com:mwihoti/health-app.git```
 ## Available Scripts
